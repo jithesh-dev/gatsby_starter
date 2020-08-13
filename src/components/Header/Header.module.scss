@@ -1,0 +1,15 @@
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.nav a {
+  padding: 0 5px;
+}
+.nav a:hover {
+  font-weight: 600;
+}
+
+.logo {
+  font-size: 3em;
+}

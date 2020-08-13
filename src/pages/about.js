@@ -1,13 +1,13 @@
 import React from "react"
-import "./index.css"
+
 import Layout from "../components/Layout/Layout"
 
-export default function Home() {
+export default function about() {
   return (
-    <div className="test">
+    <>
       <Layout>
-        <h1>Home Paage</h1>
+        <h1>Aboot</h1>
       </Layout>
-    </div>
+    </>
   )
 }
